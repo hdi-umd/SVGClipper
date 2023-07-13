@@ -6,7 +6,7 @@ The SVG Clipper Chrome extension allows users to easily select and download SVG 
 
 ## Setup Guide
 
-To set up and use the SVG Downloader Chrome extension, follow these steps:
+To set up and use the SVG Clipper Chrome extension, follow these steps:
 
 1. Clone or download the extension's source code to your local machine.
 
@@ -18,10 +18,10 @@ To set up and use the SVG Downloader Chrome extension, follow these steps:
 
 5. In the file selection dialog, navigate to the location where you cloned or downloaded the extension's source code, and select the extension folder.
 
-6. Once the extension is loaded, you should see the **SVG Downloader** listed among your installed extensions.
+6. Once the extension is loaded, you should see the **SVG Clipper** listed among your installed extensions.
 
 7. You're all set! Now, whenever you encounter an SVG image on a webpage, simply click the extension and select!
 
-Note: The SVG Downloader extension may require permission to access webpages in order to detect and download SVG images. Please grant the necessary permissions when prompted.
+Note: The SVG Clipper extension may require permission to access webpages in order to detect and download SVG images. Please grant the necessary permissions when prompted.
 
 Happy SVG downloading!
