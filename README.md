@@ -1,5 +1,7 @@
 # Chrome Extension: SVG Clipper
 
+DOWNLOAD LINK: https://chrome.google.com/webstore/detail/svg-grabber/ejohfdpadoelnddkobgdaggfeokpfnfg?hl=en&authuser=0
+
 ## Overview
 
 The SVG Clipper Chrome extension simplifies the process of selecting and saving SVG images from webpages. It provides a convenient way for users, including designers, developers, and SVG enthusiasts, to quickly save SVG files without the need for complex manual steps. With SVG Clipper, you can effortlessly capture and download SVGs from any webpage.
