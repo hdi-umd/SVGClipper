@@ -1,6 +1,6 @@
 # Chrome Extension: SVG Clipper
 
-DOWNLOAD LINK: https://chrome.google.com/webstore/detail/svg-grabber/ejohfdpadoelnddkobgdaggfeokpfnfg?hl=en&authuser=0
+Download Link: https://chrome.google.com/webstore/detail/svg-grabber/ejohfdpadoelnddkobgdaggfeokpfnfg?hl=en&authuser=0
 
 ## Overview
 
@@ -10,11 +10,15 @@ The SVG Clipper Chrome extension simplifies the process of selecting and saving 
 
 When you activate the SVG Clipper extension, it enables you to select specific SVG images on the webpage for saving. Here's how the selection and saving process works:
 
-1. Click the SVG Clipper extension icon in your Google Chrome browser to activate the selection mode.
+1. Click the SVG Clipper extension icon ![](https://github.com/hdi-umd/SVGClipper/blob/main/images/Iconsmind-Outline-Hand-Touch-2.png) in your Google Chrome browser to activate the selection mode ![](https://github.com/hdi-umd/SVGClipper/blob/main/images/checkmark-1767564-1502468.png)
+
+
 
 2. A crosshair cursor will appear, indicating that you can start selecting SVG images.
 
-3. Click and drag the mouse cursor to draw a selection box around the desired SVG image(s) on the webpage. As you drag, a translucent red rectangle will highlight the selected area.
+3. Click and drag the mouse cursor to draw a selection box around the desired SVG image(s) on the webpage. As you drag, a translucent red rectangle will highlight the selected area. 
+
+      ![](https://github.com/hdi-umd/SVGClipper/blob/main/Screenshot%202023-07-10%20at%205.08.47%20PM.png)
 
 4. Release the mouse button to finalize the selection.
 
@@ -28,7 +32,13 @@ Note: SVG Clipper may request permission to access webpages in order to detect a
 
 ## Setup Guide
 
-To set up and use the SVG Clipper Chrome extension, follow these steps:
+To set up and use the SVG Clipper Chrome extension, follow either of these two methods:
+
+Chrome Store Method:
+
+1. Link to Download: https://chrome.google.com/webstore/detail/svg-grabber/ejohfdpadoelnddkobgdaggfeokpfnfg?hl=en&authuser=0
+
+Alternative Method:
 
 1. Clone or download the extension's source code to your local machine.
 
